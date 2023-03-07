@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=pedromujica1&show_icons=true&theme=dracula&hide_border=true"/> 
-<img width="50%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=pedromujica1)"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromujica1)](https://github.com/pedromujica1/pedromujica1/edit/main/README.md)
 <!--
 **pedromujica1/pedromujica1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
