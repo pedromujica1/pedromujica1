@@ -1,7 +1,6 @@
 ### Hello there! 👋
 
 <div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=pedromujica1&show_icons=true&theme=dracula&hide_border=true"/>
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromujica1&layout=compact&theme=github_dark&hide_border=true"/>
   <br>
 </div>
