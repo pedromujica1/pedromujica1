@@ -6,7 +6,7 @@
 - 📖 Senior year at IFPR Cascavel.
 - 🔭 I’m currently working on TCC (Conclusion Course Project)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Curently learning to play the guitar.
+- ⚡ Fun fact: I enjoy watching football and movies in my free time.
 
 ## Ferramentas e Tecnologias
 
