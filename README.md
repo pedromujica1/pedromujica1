@@ -1,11 +1,14 @@
 ## Hello, I'm Pedro Mujica 👋 
 
 
-## My name is Pedro Miotto and my nickname is pedromujica1!
+## About me:
+* My name is Pedro Miotto and my nickname is pedromujica1
 
 ## Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
 
 
 ## Contacts:
