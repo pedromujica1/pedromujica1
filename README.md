@@ -1,5 +1,8 @@
 ### Hello there! 👋
 
+# Welcome to my Github profile.
+## My name is Pedro Miotto and my nickname is "pedromujica1"!
+
 
 ## Contatos:
 
