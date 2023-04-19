@@ -2,7 +2,7 @@
 
 
 ## About me:
-- 😄 My name is Pedro Miotto and my nickname is pedromujica1
+- 😃 My name is Pedro Miotto and my nickname is pedromujica1
 - 📖 Senior year at IFPR Cascavel.
 - 🔭 I’m currently working on TCC (Conclusion Course Project)
 - 😄 Pronouns: He/him
@@ -10,7 +10,7 @@
 
 ## Tools and Technologies
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
 
 ## I'm learning
 
