@@ -2,8 +2,11 @@
 
 
 ## About me:
-- My name is Pedro Miotto and my nickname is pedromujica1
+- 😄 My name is Pedro Miotto and my nickname is pedromujica1
 - 📖 Senior year at IFPR Cascavel.
+- 🔭 I’m currently working on TCC (Conclusion Course Project)
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Curently learning to play the guitar.
 
 ## Ferramentas e Tecnologias
 
