@@ -15,7 +15,7 @@
 ## I'm learning
 
 <div>
-<img src="assets/typescript.png" width="30" height="30"/> <img width ='40px' src ="assets/node.png"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+<img width ='40px'  height="40" src ="assets/node.png"> <img src="assets/types.png" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 
 </div>
           
