@@ -10,7 +10,7 @@
 
 ## Programming Languages
 
- <img src="" width="50" height="50"/> <img src="assets/python.png" width="40" height="40"/> <img src="assets/javascript.png" width="40" height="40"/> 
+ <img src="assets/java.png" width="50" height="50"/> <img src="assets/python.png" width="40" height="40"/> <img src="assets/javascript.png" width="40" height="40"/> 
 
 ## I'm learning
 
