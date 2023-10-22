@@ -15,7 +15,7 @@
 ## I'm learning
 
 <div>
-<img width ='40px'  height="40" src ="assets/node.png"> <img src="assets/type.png" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+<img width ='40px'  height="40" src ="assets/node.png"> <img src="assets/type.png" width="40" height="40"/>
 
 </div>
           
