@@ -1,3 +1,3 @@
 ### Welcome!
 
-This is my Github profile.
+My name is Pedro Miotto Mujica and this is my Github profile.
